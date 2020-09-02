@@ -9,7 +9,7 @@ Contents
 
 ---
 
--	simple implementation of denoising picture using Keras AutoEncoder structure. <br/><br/>
+-	A simple implementation of denoising picture using Keras AutoEncoder structure. <br/><br/>
 
 -	I used pictures of mine for a bit of fun.
 
