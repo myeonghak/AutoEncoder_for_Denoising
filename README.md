@@ -22,7 +22,7 @@ Contents
 
 ### References
 
-most part of the codes are from Jeff Heaton's Repo.
+most part of the codes are from Jeff Heaton's Repo. Thank you for the awesome works!
 </br>
 check out this repo for more interesting and easy implementations using keras.    
 https://github.com/jeffheaton/t81_558_deep_learning
